@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "OmniChannel",
+    "owner": "Yash Kumar",
+    "description": "Omni-Channel is a part of eBusiness applications and currently doing Threat modeling to identify it expected threats from its design data flow diagrams."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Yash Kumar, Brad Cieaveli, Haroon Mansoori, Ramgopal Kasturi"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Omni-Channel Architecture Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "eBiz Security Team"
+  }
+}
